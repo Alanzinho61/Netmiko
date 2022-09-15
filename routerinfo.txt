@@ -1,0 +1,1 @@
+10.1.1.10:muco:1234:1234:cisco_ios:True
